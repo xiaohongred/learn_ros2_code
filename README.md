@@ -5,7 +5,8 @@ youtube link: https://www.youtube.com/watch?v=Gg25GfA456o&list=PLLSegLrePWgJk6df
 
 ros2 doc: https://docs.ros.org/en/humble/index.html  
 
-in china, network is bad, install ros2 may have problem, use proxy
+in china, network is bad, install ros2 may have problem, use proxy  
+
 for me, i have problem when install ros2 follow the doc https://docs.ros.org/en/humble/Installation/Alternatives/Ubuntu-Install-Binary.html
 
 in add the ROS 2 GPG key with apt step   
